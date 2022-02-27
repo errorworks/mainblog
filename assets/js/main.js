@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 "value": "#ffffff"
             },
             "shape": {
-                "type": "circle",
+                "type": "edge",
                 "stroke": {
                     "width": 0,
                     "color": "#000000"
@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 }
             },
             "size": {
-                "value": 3,
+                "value": 10,
                 "random": true,
                 "anim": {
                     "enable": false,
